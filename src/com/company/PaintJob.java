@@ -19,4 +19,8 @@ public class PaintJob {
         }
         return (int) Math.ceil((area)/areaPerBucket);
     }
+
+    public static void main(String[] args) {
+
+    }
 }
