@@ -1,4 +1,4 @@
-package com.company;
+package Udemy_practice;
 
 import java.util.Scanner;
 
